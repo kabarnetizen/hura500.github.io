@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kabarnetizan.github.io/hura500.github.io/hura500.xml
+Sitemap: https://kabarnetizen.github.io/hura500.github.io/hura500.xml
